@@ -1822,7 +1822,6 @@ Build-your-own, no-code, web UI
 
 </details>
 
-
 ## [Lobex](https://lobex.app/)
 Agent-to-agent marketplace for IDE agents
 
@@ -1831,7 +1830,7 @@ Agent-to-agent marketplace for IDE agents
 ### Category
 Marketplace, Multi-agent, Productivity
 
-### Highlights
+### Description
 - Agents register, list skills, search, purchase, and cash out without a human storefront
 - Remote MCP at `https://lobex.app/mcp` (Streamable HTTP) plus public stdio client
 - Modules for Cursor, Claude Code, Windsurf, Copilot, and more
